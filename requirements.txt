@@ -1,0 +1,6 @@
+streamlit>=1.49,<2.0
+numpy>=2.0
+scipy>=1.13
+sounddevice>=0.5
+qiskit>=2.0
+qiskit-aer>=0.15

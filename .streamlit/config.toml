@@ -1,0 +1,18 @@
+[theme]
+base = "dark"
+primaryColor = "#8c2f39"
+backgroundColor = "#170f0c"
+secondaryBackgroundColor = "#241811"
+textColor = "#f4e9da"
+font = "sans serif"
+
+# st.line_chart (the waveform panel) picks its series color from this list,
+# not from primaryColor. First entry is used for a single-series chart, so
+# put maroon first with gold/brass as the fallback for any second series.
+chartCategoricalColors = [
+    "#b8495a",
+    "#cb9a44",
+    "#8c2f39",
+    "#e8c47c",
+    "#5e1f27",
+]
