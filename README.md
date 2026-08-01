@@ -91,6 +91,6 @@ python -m pytest
 
 **Khatwang Madhav Yippili**
 
-B.Sc. Mathematical Sciences and Computing
+B.S. (Hons.) in Mathematical Sciences and Computing
 
 Sri Sathya Sai Institute of Higher Learning
